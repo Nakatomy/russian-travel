@@ -1,0 +1,19 @@
+.places__place {
+	display: flex;
+	margin-bottom: 80px;
+	flex-direction: column;
+}
+
+.places__place:last-child {
+	margin-bottom: 0;
+}
+
+@media screen and (max-width: 1024px) {
+	.places__place {
+		/* display: grid;
+		grid-template-columns: 440px 456px;
+		grid-template-rows: auto; */
+		margin-bottom: 80px;
+	}
+	
+}

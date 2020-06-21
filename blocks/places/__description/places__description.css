@@ -1,0 +1,6 @@
+.places__description {
+    display: flex;
+    flex-direction: row;
+    margin-top: 48px;
+  
+}
