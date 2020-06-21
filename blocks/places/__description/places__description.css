@@ -4,3 +4,10 @@
     margin-top: 48px;
   
 }
+
+@media screen and (max-width: 625px) {
+	.places__description  {
+        flex-direction: column;
+        margin-top: 32px;
+	}
+}

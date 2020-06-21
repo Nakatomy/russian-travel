@@ -14,6 +14,21 @@
 }
 
 
+@media screen and (max-width: 425px) {
+	.intro {
+		padding: 64px 16px 0;
+		max-width: calc(100% - 16px*2);
+	}
+}
+
+@media screen and (max-width: 768px) {
+	.intro {
+		padding: 88px 24px 0;
+		max-width: calc(100% - 24px*2);
+	}
+}
+
+
 @media screen and (max-width: 1024px) {
 	.intro {
 		padding: 88px 48px 0;
@@ -21,16 +36,4 @@
 	}
 }
 
-@media screen and (max-width: 768px) {
-	.intro {
-		padding: 88px 24px 88px;
-		max-width: calc(100% - 24px*2);
-	}
-}
 
-@media screen and (max-width: 425px) {
-	.intro {
-		padding: 64px 16px 64px;
-		max-width: calc(100% - 16px*2);
-	}
-}
