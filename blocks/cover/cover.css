@@ -11,14 +11,16 @@
 	margin: 0 auto;
 }
 
+@media screen and (max-width: 768px) {
+	.cover {
+		padding-top: 88px;
+	}
+}
+
+
 @media screen and (max-width: 625px) {
 	.cover {
 		padding-top: 64px;
 	}
 }
 
-@media screen and (max-width: 768px) {
-	.cover {
-		padding-top: 88px;
-	}
-}
