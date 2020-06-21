@@ -4,7 +4,10 @@
 	font-size: 18px;
 	line-height: 1.67;
 	color: #ffffff;
+}
 
+.places__paragraph:first-child {
+	margin-top: 0;
 }
 
 @media screen and (max-width: 768px) {
@@ -14,4 +17,9 @@
 	}
 }
 
+@media screen and (max-width: 625px) {
+	.places__paragraph:first-child {
+		margin-top: 32px;
+	}
+}
 
