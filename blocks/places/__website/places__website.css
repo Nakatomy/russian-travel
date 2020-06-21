@@ -3,10 +3,7 @@
 	flex-direction: column;
 	align-self: flex-end;
 	width: 100%;
-
 }
-
-
 
 @media screen and (max-width: 625px) {
 	.places__website  {
