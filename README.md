@@ -3,6 +3,9 @@
 ### О чем сайт
 Проект о путешествии по России.
 
+### CСсылка на gh-pages
+https://nakatomy.github.io/russian-travel/
+
 ### Технологии
 - Классический Бэм
 - html

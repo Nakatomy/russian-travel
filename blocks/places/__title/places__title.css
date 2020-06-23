@@ -26,6 +26,7 @@
 
 @media screen and (max-width: 625px) {
 	.places__title {
+		font-size: 32px;
 		min-width: calc(100% - 16px);
 		padding-left: 16px;
 	}
